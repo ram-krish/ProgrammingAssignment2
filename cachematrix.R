@@ -26,8 +26,6 @@ if(dim(x)[1]==dim(x)[2]) {
 	else{
 	print("enter a square matrix")
 	}
-
-
 }
 
 
